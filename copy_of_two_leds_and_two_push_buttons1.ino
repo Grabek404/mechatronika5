@@ -1,6 +1,6 @@
-int BUTTONstate1 = 0;
+int BUTTONstate1 = 1;
 
-int BUTTONstate2 = 0;
+int BUTTONstate2 = 1;
 
 void setup()
 {

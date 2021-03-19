@@ -6,8 +6,7 @@ void setup()
 {
   pinMode(2, INPUT);
   pinMode(8, OUTPUT);
-  pinMode(4, INPUT);
-  pinMode(12, OUTPUT);
+
 }
 
 void loop()
